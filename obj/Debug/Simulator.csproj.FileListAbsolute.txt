@@ -1,0 +1,13 @@
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\bin\Debug\Simulator.exe.config
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\bin\Debug\Simulator.exe.manifest
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\bin\Debug\Simulator.application
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\obj\Debug\Simulator.exe.manifest
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\obj\Debug\Simulator.application
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\Nader\documents\visual studio 2013\Projects\Simulator\Simulator\obj\Debug\Simulator.pdb
